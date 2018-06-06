@@ -1,0 +1,32 @@
+.bastard {
+    color: white;
+    background-color: black;
+    font-family: 'Song Myung', serif;
+    font-size: 20px;
+
+
+}
+
+
+body {
+    background-color: aqua;
+}
+
+#sad-input {
+    width: 25%;
+    
+}
+
+#sad-form {
+
+    font-family: 'Song Myung', serif;
+    font-size: 20px;
+    margin: 5px;
+  
+
+}
+
+#add-sad {
+    color: white;
+    background-color: black;
+}
